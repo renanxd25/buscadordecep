@@ -1,7 +1,7 @@
-# Acesse e use o projeto através do seu Deploy<br>
+# Acesse e use o projeto através do seu Deploy <br>
 http://buscadordecep-azure.vercel.app/
 
-#Demonstração <br>
+# Demonstração <br>
 ![Alt text](https://github.com/renanxd25/buscadordecep/blob/master/buscadordecep.gif?raw=true "Demonstração")
 
 # Descrição <br>
